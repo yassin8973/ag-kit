@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vudovn/ag-kit/main/web/public/images/logo.png" width="128" height="128" alt="AG Kit">
+  <img src="https://yassin8973.github.io" width="128" height="128" alt="AG Kit">
 </p>
 
 <h1 align="center">AG KIT</h1>
@@ -9,9 +9,9 @@
 </p>
 
 <div align="center">
-  <a href="https://unikorn.vn/p/antigravity-kit?ref=unikorn" target="_blank"><img src="https://unikorn.vn/api/widgets/badge/antigravity-kit?theme=dark" alt="AG Kit on Unikorn.vn" width="210" height="54" /></a>
-  <a href="https://trendshift.io/repositories/21490" target="_blank"><img src="https://trendshift.io/api/badge/repositories/21490" alt="AG Kit on Trendshift" width="250" height="55" /></a>
-  <a href="https://launch.j2team.dev/products/antigravity-kit" target="_blank"><img src="https://launch.j2team.dev/badge/antigravity-kit/dark" alt="AG Kit on J2TEAM Launch" width="250" height="54" /></a>
+  <a href="https://yassin8973.github.io" target="_blank"><img src="https://yassin8973.github.io" alt="AG Kit on Unikorn.vn" width="210" height="54" /></a>
+  <a href="https://yassin8973.github.io" target="_blank"><img src="https://yassin8973.github.io" alt="AG Kit on Trendshift" width="250" height="55" /></a>
+  <a href="https://yassin8973.github.io" target="_blank"><img src="https://yassin8973.github.io" alt="AG Kit on J2TEAM Launch" width="250" height="54" /></a>
 </div>
 
 <p align="center">
@@ -232,13 +232,13 @@ AG Kit is an original open-source implementation of Markdown-based agent enginee
 ## Support the project
 
 <p align="center">
-  <a href="https://buymeacoffee.com/vudovn" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+  <a href="https://yassin8973.github.io" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
 </p>
 
 <p align="center"> - or - </p>
 
 <p align="center">
-  <img src="https://img.vietqr.io/image/mbbank-0779440918-compact.jpg" alt="Buy me coffee" width="200" />
+  <img src="https://yassin8973.github.io" alt="Buy me coffee" width="200" />
 </p>
 
 <p align="center">
@@ -247,4 +247,4 @@ AG Kit is an original open-source implementation of Markdown-based agent enginee
 
 ## License
 
-Released under the [MIT License](LICENSE) © [Vudovn](https://github.com/vudovn).
+Released under the [MIT License](LICENSE) © [Vudovn](https://yassin8973.github.io).
